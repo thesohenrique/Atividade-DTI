@@ -10,7 +10,7 @@ namespace AtividadeDTI
     {
         static void Main(string[] args)
         {
-                string[] lines = System.IO.File.ReadAllLines(@"C:\Users\mathe\OneDrive\Área de Trabalho\DTI\AtividadeDTI\dados.txt"); //Guarda cada linha do arquivo .txt em uma posição do array.
+                string[] lines = System.IO.File.ReadAllLines(@"C:\Users\mathe\OneDrive\Área de Trabalho\DTI\AtividadeDTI\atividade-DTI\dados.txt"); //Guarda cada linha do arquivo .txt em uma posição do array.
                 string[] dados;
                 string[] separador = { "-%p" }; //Variável para guardar o conjunto de caracteres especiais que irá separar cada dado de entrada.
                 string uuid, uuidDestino, nome, data;
