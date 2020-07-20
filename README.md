@@ -1,5 +1,5 @@
-Atividade back-end nível básico
-Para a realização da atividade em questão, foi utilizada a linguagem C# através da IDE do Visual Studio.
+#Atividade back-end nível básico\n
+Para a realização da atividade em questão, foi utilizada a linguagem C# através da IDE do Visual Studio.\n
 Instruções para executar a aplicação:
 Para executar a aplicação, basta alterar o caminho no código, que se encontra na primeira linha da main, para onde o arquivo .txt com os dados de entrada esteja salvo em sua máquina.
 Tem-se como premissa que a quantidade de dados de entrada, a ordem, como também o conjunto de caracteres especiais para separá-los, estejam conforme exemplificado:
