@@ -1,0 +1,6 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\DTI\AtividadeDTI\AtividadeDTI\bin\Debug\AtividadeDTI.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\DTI\AtividadeDTI\AtividadeDTI\bin\Debug\AtividadeDTI.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\DTI\AtividadeDTI\AtividadeDTI\bin\Debug\AtividadeDTI.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\DTI\AtividadeDTI\AtividadeDTI\obj\Debug\AtividadeDTI.csprojResolveAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\DTI\AtividadeDTI\AtividadeDTI\obj\Debug\AtividadeDTI.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\DTI\AtividadeDTI\AtividadeDTI\obj\Debug\AtividadeDTI.pdb
